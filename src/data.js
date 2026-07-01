@@ -5,13 +5,13 @@ export const profile = {
   lastName: 'Arshad',
   role: 'Full-Stack Developer',
   years: '3+',
-  email: 'aqeelarshad811@gmail.com',
+  email: 'muhammadaqeelarshed@gmail.com',
   phone: '+923338283410',
   phoneDisplay: '+92 333 8283410',
   whatsapp: '923338283410',
   whatsappMsg: "Hi Aqeel, I came across your portfolio and I'd like to connect about a Full-Stack Developer opportunity.",
-  linkedinUrl: 'https://www.linkedin.com/in/aqeel-arshad-9b77b3347/',
-  linkedinText: 'linkedin.com/in/aqeel-arshad',
+  linkedinUrl: 'https://www.linkedin.com/in/aqeel-arshed/',
+  linkedinText: 'linkedin.com/in/aqeel-arshed',
   location: 'Lahore, PK',
 }
 
