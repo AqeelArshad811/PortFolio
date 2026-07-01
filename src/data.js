@@ -2,7 +2,7 @@
 
 export const profile = {
   firstName: 'Muhammad Aqeel',
-  lastName: 'Arshed',
+  lastName: 'Arshad',
   role: 'Full-Stack Developer',
   years: '3+',
   email: 'muhammadaqeelarshed@gmail.com',
