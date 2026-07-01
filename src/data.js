@@ -2,7 +2,7 @@
 
 export const profile = {
   firstName: 'Muhammad Aqeel',
-  lastName: 'Arshad',
+  lastName: 'Arshed',
   role: 'Full-Stack Developer',
   years: '3+',
   email: 'muhammadaqeelarshed@gmail.com',
@@ -11,7 +11,7 @@ export const profile = {
   whatsapp: '923338283410',
   whatsappMsg: "Hi Aqeel, I came across your portfolio and I'd like to connect about a Full-Stack Developer opportunity.",
   linkedinUrl: 'https://www.linkedin.com/in/aqeel-arshed/',
-  linkedinText: 'linkedin.com/in/aqeel-arshed',
+  linkedinText: 'Aqeel Arshed',
   location: 'Lahore, PK',
 }
 
